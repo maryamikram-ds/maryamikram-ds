@@ -16,7 +16,7 @@
 
 ---
 
-###  Core Expertise & Specializations
+### 🔬 Core Expertise & Specializations
 
 <table>
   <tr>
@@ -41,7 +41,7 @@
 
 ---
 
-###  Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -58,15 +58,15 @@
 
 ---
 
-### Applied Research & Projects
+### 📊 Applied Research & Projects
 
-*  **Energy & Anomaly Intelligence:** Architecting predictive models and time-series pipelines for anomaly detection and automated metrics reporting.
-*  **Agentic Systems:** Designing AI-driven automated agent architectures for complex data workflows.
-*  **Mathematical Simulations:** Development of computational scripts for numerical algorithms and scientific modeling.
+* ⚡ **Energy & Anomaly Intelligence:** Architecting predictive models and time-series pipelines for anomaly detection and automated metrics reporting.
+* 🤖 **Agentic Systems:** Designing AI-driven automated agent architectures for complex data workflows.
+* 📐 **Mathematical Simulations:** Development of computational scripts for numerical algorithms and scientific modeling.
 
 ---
 
-###  Academic Background
+### 🎓 Academic Background
 
 * **BS in Mathematics & Data Science** — COMSATS University Islamabad, Lahore Campus
 * **BSc Degree** — Strong foundational background in physical & mathematical sciences
