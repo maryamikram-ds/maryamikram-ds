@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>📐 Applied Mathematics & Statistics</h4>
+      <h4> Applied Mathematics & Statistics</h4>
       <ul>
         <li>Mathematical Modeling & Numerical Analysis</li>
         <li>Differential Equations & Optimization</li>
@@ -29,7 +29,7 @@
       </ul>
     </td>
     <td width="50%">
-      <h4>📊 Data Science & Artificial Intelligence</h4>
+      <h4> Data Science & Artificial Intelligence</h4>
       <ul>
         <li>Predictive Modeling & Anomaly Detection</li>
         <li>Exploratory Data Analysis (EDA) & Pipelines</li>
