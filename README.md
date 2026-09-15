@@ -74,8 +74,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maryamikram-ds&show_icons=true&theme=radial&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamikram-ds&layout=compact&theme=radial&hide_border=true" height="150" />
+  <img src="https://img.shields.io/badge/Applied-Mathematics-00599C?style=for-the-badge&logo=matrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Science-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 ---
